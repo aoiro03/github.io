@@ -1,3 +1,4 @@
+document.write("hello")
 IMG['Title']=new Image()
 IMG['Title'].src='img/Ew_S-hTVoAE0Xlr.png'
 
